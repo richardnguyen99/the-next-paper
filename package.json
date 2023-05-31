@@ -1,5 +1,9 @@
 {
+  "name": "the-next-paper",
   "private": true,
+  "description": "A NextJS template with modern techonologies for blogging",
+  "version": "0.1.0",
+  "author": "Richard Nguyen <richard.nguyenmh@gmail.com>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -7,7 +11,25 @@
   },
   "dependencies": {
     "next": "latest",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "mdx",
+    "starter",
+    "jest",
+    "testing"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardnguyen99/the-next-paper"
+  },
+  "bugs": {
+    "url": "https://github.com/richardnguyen99/the-next-paper/issues"
   }
 }
